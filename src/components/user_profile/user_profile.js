@@ -8,8 +8,7 @@ const UserProfile = () => (
   <Card>
     <Row>
       <Col s={8} m={8} offset="s2 m2">
-       // eslint-disable-next-line 
-        <img src={avatar} className="circle responsive-img" />
+        <img src={avatar} eslint-disable-next-line className="circle responsive-img" />
       </Col>
     </Row>
     <Row className="center-align">
