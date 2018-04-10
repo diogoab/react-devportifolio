@@ -7,8 +7,8 @@ import avatar from '../../images/avatar.png';
 const UserProfile = () => (
   <Card>
     <Row>
-      <Col s={8} offset="s2 m2">
-        <img src={avatar} className="cicle responsive-img" />
+      <Col s={8} m={8} offset="s2 m2">
+        <img src={avatar} className="circle responsive-img" />
       </Col>
     </Row>
     <Row className="center-align">
