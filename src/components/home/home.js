@@ -23,11 +23,7 @@ const Home = () => (
         {/* <Experience />}
         <Experience /> */}
     </Col>
-    <Col m={4} s={12}>
-    <h2> coluna 3 </h2>
-    {/* <UserProfile /> */}
-    </Col>
-  </Row>
+ </Row>
 
 );
 
