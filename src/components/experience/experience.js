@@ -6,8 +6,8 @@ const Experience = (props) => (
   <Card>
     <Row>
       <Col s={2} m={2}>
-      {/* eslint-disable-next-line */}
-        <img src={props.avatar} className="circle responsive-img" />
+
+        <img src={props.avatar} alt="" className="circle responsive-img" />
         { props.name }
       </Col>
 
