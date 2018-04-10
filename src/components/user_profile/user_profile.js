@@ -12,8 +12,8 @@ const UserProfile = () => (
       </Col>
     </Row>
     <Row className="center-align">
-      <h5>Lorem Ipsum</h5>
-      <p className="grey darken-2 white-text">Ruby Developer</p>
+      <h5>Marília Miranda</h5>
+      <p className="grey darken-2 white-text">Engenharia Civil</p>
     </Row>
   </Card>
 
